@@ -1,0 +1,19 @@
+{
+    "name": "ocean_liang/mixphp-rbac",
+    "description": "Mixphp RBAC",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "ocean",
+            "email": "1184254883@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+    "psr-4": {
+        "Ocean\\": "src/"
+    }
+}
+}
