@@ -1,0 +1,8 @@
+/vendor/
+/.idea/
+/.settings/
+composer.lock
+.project
+.buildpath
+deployment.properties
+deployment.xml
